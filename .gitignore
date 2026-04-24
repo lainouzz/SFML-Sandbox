@@ -1,3 +1,31 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln.ide
+*.ipch
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# Optional (if using CMake)
+CMakeFiles/
+CMakeCache.txt
+
+# Your existing Sass stuff (only keep if you actually use it)
 .sass-cache/
 *.css.map
 *.sass.map
