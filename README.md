@@ -110,7 +110,6 @@ Each system iterates the grid once per frame:
 3. Set the build configuration to **Debug** or **Release** (x64).
 4. Build and run (`F5`).
 
-> **Note:** The font path in `SMFLPhysics.cpp` is currently hardcoded. Update it to point to a valid `ARIAL.TTF` on your machine, or place the font at `x64/Debug/font/ARIAL.TTF` relative to the project root.
 
 ---
 
