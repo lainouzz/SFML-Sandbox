@@ -59,7 +59,7 @@ SMFLPhysics/
 ├── UI.h / .cpp       # HUD text (FPS, grain count, brush size, instructions)
 ├── MainMenu.h / .cpp # Main menu screen rendering
 ```
-
+Please note that there is a small type in SMFLPhysics.cpp, to lazy to change :P
 ---
 
 ## ⚙️ Architecture
@@ -116,4 +116,4 @@ Each system iterates the grid once per frame:
 
 ## 📄 License
 
-This project is for portfolio and educational purposes.
+This project is for portfolio and educational purposes. This ReadMe was created with the help of AI to speed things up and make it look nicer :)
