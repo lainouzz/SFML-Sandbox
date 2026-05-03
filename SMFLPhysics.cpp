@@ -43,7 +43,7 @@ int main() {
 	bool overwriteMode = false;
 
 	// ---------------- FONT ----------------
-	sf::Font font("C:\\Users\\mojan\\source\\repos\\SMFLPhysics\\x64\\Debug\\font\\ARIAL.TTF");
+	sf::Font font("assets/fonts/ARIAL.TTF");
 	
 	GameState gameState = GameState::MainMenu;
 
